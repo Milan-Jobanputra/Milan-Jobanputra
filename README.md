@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milan-Jobanputra  
 - </> Full Stack Developer with 9 Years of Experince 
-- 👀 I’m interested in ... PHP| Python | Shopify | Wordpress | MVC | JS | Css/bootstrap/mediaqueries
+- 👀 I’m interested in ... PHP | Python | Shopify | Wordpress | MVC | JS | Css/bootstrap/mediaqueries
 - 🌱 I’m currently learning ... AI Development / LLM Models / Datascience  
 - 💞️ I’m looking to collaborate on ... Anything just need to feel vibe
 - 📫 How to reach me ... https://www.linkedin.com/in/milan-jobanputra/  
